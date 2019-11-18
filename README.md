@@ -31,21 +31,28 @@ import "hanamin";
 
 ### With CDN
 
+jsDelivr npm:
+
 ```html
-// jsDelivr npm
 <link
   rel="stylesheet"
   type="text/css"
   href="https://cdn.jsdelivr.net/npm/hanamin/HanaMin.css"
 />
+```
 
-// jsDelivr GitHub
+jsDelivr GitHub:
+
+```html
 <link
   rel="stylesheet"
   type="text/css"
   href="https://cdn.jsdelivr.net/gh/vdustr/hanamin/HanaMin.css"
 />
+```
 
-// unpkg
+UNPKG:
+
+```html
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/hanamin" />
 ```
