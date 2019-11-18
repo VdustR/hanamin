@@ -1,0 +1,28 @@
+{
+  "name": "hanamin",
+  "version": "0.0.1",
+  "description": "A webfont repository for Hanamin",
+  "keywords": [
+    "font",
+    "serif",
+    "hanamin",
+    "hanazono",
+    "web",
+    "split",
+    "subset"
+  ],
+  "author": {
+    "name": "ViPro",
+    "email": "VdustR@gmail.com",
+    "url": "https://VdustR.github.io"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VdustR/hanamin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VdustR/hanamin/issues"
+  },
+  "main": "HanaMin.css"
+}
