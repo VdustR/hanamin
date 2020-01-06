@@ -26,7 +26,7 @@ body {
 
 ### With Pre-processor
 
-Install `hinamin`:
+Install `hanamin`:
 
 ```sh
 npm i hanamin
