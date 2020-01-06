@@ -8,7 +8,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Basic-Latin.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Basic-Latin.woff2) format("woff2");
   unicode-range: U+0, U+8-9, U+d, U+1d, U+20-7e;
 }
 
@@ -17,7 +18,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Latin-1-Supplement.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Latin-1-Supplement.woff2) format("woff2");
   unicode-range: U+80-ff;
 }
 
@@ -26,7 +28,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Latin-Extended-A.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Latin-Extended-A.woff2) format("woff2");
   unicode-range: U+100-17f;
 }
 
@@ -35,7 +38,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Latin-Extended-B.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Latin-Extended-B.woff2) format("woff2");
   unicode-range: U+180-24f;
 }
 
@@ -44,7 +48,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.IPA-Extensions.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.IPA-Extensions.woff2) format("woff2");
   unicode-range: U+250-2af;
 }
 
@@ -53,7 +58,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Spacing-Modifier-Letters.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Spacing-Modifier-Letters.woff2) format("woff2");
   unicode-range: U+2b0-2c4, U+2c6-2eb, U+2ed-2ee, U+2f1-2f8;
 }
 
@@ -62,7 +68,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Combining-Diacritical-Marks.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Combining-Diacritical-Marks.woff2) format("woff2");
   unicode-range: U+358;
 }
 
@@ -71,8 +78,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Greek-and-Coptic.woff2) format('woff2');
-  unicode-range: U+370-377, U+37a-37f, U+384-38a, U+38c, U+38e-3a1, U+3a3-3e1, U+3ed, U+3f0-3ff;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Greek-and-Coptic.woff2) format("woff2");
+  unicode-range: U+370-377, U+37a-37f, U+384-38a, U+38c, U+38e-3a1, U+3a3-3e1,
+    U+3ed, U+3f0-3ff;
 }
 
 @font-face {
@@ -80,7 +89,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Cyrillic.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Cyrillic.woff2) format("woff2");
   unicode-range: U+400-47b, U+47e-483, U+48a-4ff;
 }
 
@@ -89,7 +99,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Cyrillic-Supplement.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Cyrillic-Supplement.woff2) format("woff2");
   unicode-range: U+500-52f;
 }
 
@@ -98,8 +109,11 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Armenian.woff2) format('woff2');
-  unicode-range: U+531-532, U+534-538, U+53b-53f, U+542, U+544, U+546, U+548, U+54a, U+54c-556, U+559-55f, U+561-566, U+568, U+56b-56d, U+56f-570, U+572, U+574-578, U+57a-587, U+589-58a, U+58f;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Armenian.woff2) format("woff2");
+  unicode-range: U+531-532, U+534-538, U+53b-53f, U+542, U+544, U+546, U+548,
+    U+54a, U+54c-556, U+559-55f, U+561-566, U+568, U+56b-56d, U+56f-570, U+572,
+    U+574-578, U+57a-587, U+589-58a, U+58f;
 }
 
 @font-face {
@@ -107,7 +121,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Hebrew.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Hebrew.woff2) format("woff2");
   unicode-range: U+5d0;
 }
 
@@ -116,7 +131,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Thai.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Thai.woff2) format("woff2");
   unicode-range: U+e01-e30, U+e32-e34, U+e3f-e46, U+e4f, U+e5a;
 }
 
@@ -125,8 +141,11 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Georgian.woff2) format('woff2');
-  unicode-range: U+10a0-10a1, U+10a4, U+10a8-10a9, U+10b2, U+10b4, U+10b6-10b7, U+10b9, U+10bd, U+10d0, U+10d2, U+10d4-10d5, U+10d7, U+10d9, U+10dd, U+10e0, U+10fc;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Georgian.woff2) format("woff2");
+  unicode-range: U+10a0-10a1, U+10a4, U+10a8-10a9, U+10b2, U+10b4, U+10b6-10b7,
+    U+10b9, U+10bd, U+10d0, U+10d2, U+10d4-10d5, U+10d7, U+10d9, U+10dd, U+10e0,
+    U+10fc;
 }
 
 @font-face {
@@ -134,7 +153,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Hangul-Jamo.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Hangul-Jamo.woff2) format("woff2");
   unicode-range: U+1100-11ff;
 }
 
@@ -143,8 +163,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Cherokee.woff2) format('woff2');
-  unicode-range: U+13a0-13b7, U+13bb, U+13c0, U+13c3, U+13cf-13d0, U+13d2, U+13d9-13da, U+13de-13df, U+13e2, U+13e6-13e8, U+13eb, U+13f4;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Cherokee.woff2) format("woff2");
+  unicode-range: U+13a0-13b7, U+13bb, U+13c0, U+13c3, U+13cf-13d0, U+13d2,
+    U+13d9-13da, U+13de-13df, U+13e2, U+13e6-13e8, U+13eb, U+13f4;
 }
 
 @font-face {
@@ -152,7 +174,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Ogham.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Ogham.woff2) format("woff2");
   unicode-range: U+1680-169c;
 }
 
@@ -161,7 +184,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Runic.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Runic.woff2) format("woff2");
   unicode-range: U+16a0-16f8;
 }
 
@@ -170,7 +194,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Cyrillic-Extended-C.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Cyrillic-Extended-C.woff2) format("woff2");
   unicode-range: U+1c80-1c88;
 }
 
@@ -179,7 +204,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Sundanese-Supplement.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Sundanese-Supplement.woff2) format("woff2");
   unicode-range: U+1cc0-1cc7;
 }
 
@@ -188,7 +214,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Phonetic-Extensions.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Phonetic-Extensions.woff2) format("woff2");
   unicode-range: U+1d00-1d7f;
 }
 
@@ -197,7 +224,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Phonetic-Extensions-Supplement.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Phonetic-Extensions-Supplement.woff2) format("woff2");
   unicode-range: U+1d80-1dbf;
 }
 
@@ -206,7 +234,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Latin-Extended-Additional.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Latin-Extended-Additional.woff2) format("woff2");
   unicode-range: U+1e00-1eff;
 }
 
@@ -215,8 +244,11 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Greek-Extended.woff2) format('woff2');
-  unicode-range: U+1f00-1f15, U+1f18-1f1d, U+1f20-1f45, U+1f48-1f4d, U+1f50-1f57, U+1f59, U+1f5b, U+1f5d, U+1f5f-1f7d, U+1f80-1fb4, U+1fb6-1fc4, U+1fc6-1fd3, U+1fd6-1fdb, U+1fdd-1fef, U+1ff2-1ff4, U+1ff6-1ffe;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Greek-Extended.woff2) format("woff2");
+  unicode-range: U+1f00-1f15, U+1f18-1f1d, U+1f20-1f45, U+1f48-1f4d, U+1f50-1f57,
+    U+1f59, U+1f5b, U+1f5d, U+1f5f-1f7d, U+1f80-1fb4, U+1fb6-1fc4, U+1fc6-1fd3,
+    U+1fd6-1fdb, U+1fdd-1fef, U+1ff2-1ff4, U+1ff6-1ffe;
 }
 
 @font-face {
@@ -224,8 +256,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.General-Punctuation.woff2) format('woff2');
-  unicode-range: U+2000-2003, U+2007-2008, U+2010-2027, U+2030-2049, U+204b, U+204e-2054, U+2056-205e;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.General-Punctuation.woff2) format("woff2");
+  unicode-range: U+2000-2003, U+2007-2008, U+2010-2027, U+2030-2049, U+204b,
+    U+204e-2054, U+2056-205e;
 }
 
 @font-face {
@@ -233,7 +267,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Superscripts-and-Subscripts.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Superscripts-and-Subscripts.woff2) format("woff2");
   unicode-range: U+2070-2071, U+2074-208e, U+2090-209c;
 }
 
@@ -242,7 +277,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Currency-Symbols.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Currency-Symbols.woff2) format("woff2");
   unicode-range: U+20a0-20bf;
 }
 
@@ -251,7 +287,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Combining-Diacritical-Marks-for-Symbols.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Combining-Diacritical-Marks-for-Symbols.woff2) format("woff2");
   unicode-range: U+20dd-20e0, U+20e3-20e5;
 }
 
@@ -260,8 +297,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Letterlike-Symbols.woff2) format('woff2');
-  unicode-range: U+2100-210a, U+210d-210f, U+2112-211a, U+211c-2127, U+2129-212b, U+212e, U+2132, U+2135, U+213b, U+213f-2144, U+214b, U+214d-214e;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Letterlike-Symbols.woff2) format("woff2");
+  unicode-range: U+2100-210a, U+210d-210f, U+2112-211a, U+211c-2127, U+2129-212b,
+    U+212e, U+2132, U+2135, U+213b, U+213f-2144, U+214b, U+214d-214e;
 }
 
 @font-face {
@@ -269,7 +308,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Number-Forms.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Number-Forms.woff2) format("woff2");
   unicode-range: U+2150-218b;
 }
 
@@ -278,8 +318,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Arrows.woff2) format('woff2');
-  unicode-range: U+2190-219b, U+219e-21a8, U+21ae, U+21b0-21b3, U+21b8-21b9, U+21bc-21d5, U+21de-21df, U+21e4-21e9, U+21f3-21fc;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Arrows.woff2) format("woff2");
+  unicode-range: U+2190-219b, U+219e-21a8, U+21ae, U+21b0-21b3, U+21b8-21b9,
+    U+21bc-21d5, U+21de-21df, U+21e4-21e9, U+21f3-21fc;
 }
 
 @font-face {
@@ -287,8 +329,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Mathematical-Operators.woff2) format('woff2');
-  unicode-range: U+2200-2230, U+2234-224c, U+2250-22a1, U+22a4-22a5, U+22b8-22b9, U+22bb-22c7, U+22d0-22d5, U+22da-22dd, U+22ee-22ff;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Mathematical-Operators.woff2) format("woff2");
+  unicode-range: U+2200-2230, U+2234-224c, U+2250-22a1, U+22a4-22a5, U+22b8-22b9,
+    U+22bb-22c7, U+22d0-22d5, U+22da-22dd, U+22ee-22ff;
 }
 
 @font-face {
@@ -296,8 +340,13 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Miscellaneous-Technical.woff2) format('woff2');
-  unicode-range: U+2300, U+2302-230b, U+2310, U+2312-2313, U+2315, U+2317-2319, U+2320-2321, U+2326-234a, U+234f-2350, U+2356-2357, U+235a, U+235c, U+235f-2360, U+2365, U+236a-2370, U+2373-237b, U+2380-2383, U+238a-238b, U+238f-2395, U+239b-23b5, U+23b8-23cf, U+23da-23e1, U+23e3, U+23e7-23e8, U+23f8-23fd, U+23ff;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Miscellaneous-Technical.woff2) format("woff2");
+  unicode-range: U+2300, U+2302-230b, U+2310, U+2312-2313, U+2315, U+2317-2319,
+    U+2320-2321, U+2326-234a, U+234f-2350, U+2356-2357, U+235a, U+235c,
+    U+235f-2360, U+2365, U+236a-2370, U+2373-237b, U+2380-2383, U+238a-238b,
+    U+238f-2395, U+239b-23b5, U+23b8-23cf, U+23da-23e1, U+23e3, U+23e7-23e8,
+    U+23f8-23fd, U+23ff;
 }
 
 @font-face {
@@ -305,7 +354,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Control-Pictures.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Control-Pictures.woff2) format("woff2");
   unicode-range: U+2400-2426;
 }
 
@@ -314,7 +364,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Optical-Character-Recognition.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Optical-Character-Recognition.woff2) format("woff2");
   unicode-range: U+244a;
 }
 
@@ -323,7 +374,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Enclosed-Alphanumerics.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Enclosed-Alphanumerics.woff2) format("woff2");
   unicode-range: U+2460-24ff;
 }
 
@@ -332,7 +384,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Box-Drawing.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Box-Drawing.woff2) format("woff2");
   unicode-range: U+2500-257f;
 }
 
@@ -341,7 +394,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Block-Elements.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Block-Elements.woff2) format("woff2");
   unicode-range: U+2580-259f;
 }
 
@@ -350,7 +404,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Geometric-Shapes.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Geometric-Shapes.woff2) format("woff2");
   unicode-range: U+25a0-25ff;
 }
 
@@ -359,8 +414,12 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Miscellaneous-Symbols.woff2) format('woff2');
-  unicode-range: U+2600-2617, U+2619-261f, U+2627, U+262d-2637, U+2639-2647, U+2660-266f, U+2672-2691, U+2693, U+2697, U+269e-26af, U+26b2-26b4, U+26b9, U+26bd-26bf, U+26c4-26c7, U+26c9-26cb, U+26d2, U+26d4, U+26d6-26d7, U+26dd-26de, U+26e2-26e3, U+26e9, U+26ec-26f1, U+26fc, U+26fe-26ff;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Miscellaneous-Symbols.woff2) format("woff2");
+  unicode-range: U+2600-2617, U+2619-261f, U+2627, U+262d-2637, U+2639-2647,
+    U+2660-266f, U+2672-2691, U+2693, U+2697, U+269e-26af, U+26b2-26b4, U+26b9,
+    U+26bd-26bf, U+26c4-26c7, U+26c9-26cb, U+26d2, U+26d4, U+26d6-26d7,
+    U+26dd-26de, U+26e2-26e3, U+26e9, U+26ec-26f1, U+26fc, U+26fe-26ff;
 }
 
 @font-face {
@@ -368,8 +427,11 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Dingbats.woff2) format('woff2');
-  unicode-range: U+2702, U+2708-2709, U+2713, U+2715-2717, U+271a, U+2721, U+2726-2728, U+272a, U+273d, U+273f-2740, U+2742, U+2744, U+274c, U+274e, U+2756, U+2776-2793, U+279d, U+27a1;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Dingbats.woff2) format("woff2");
+  unicode-range: U+2702, U+2708-2709, U+2713, U+2715-2717, U+271a, U+2721,
+    U+2726-2728, U+272a, U+273d, U+273f-2740, U+2742, U+2744, U+274c, U+274e,
+    U+2756, U+2776-2793, U+279d, U+27a1;
 }
 
 @font-face {
@@ -377,7 +439,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Miscellaneous-Mathematical-Symbols-A.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Miscellaneous-Mathematical-Symbols-A.woff2) format("woff2");
   unicode-range: U+27c0-27c4, U+27c7-27d4, U+27d8-27d9, U+27dc-27de, U+27e0-27ef;
 }
 
@@ -386,7 +449,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Supplemental-Arrows-A.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Supplemental-Arrows-A.woff2) format("woff2");
   unicode-range: U+27f4-27fe;
 }
 
@@ -395,7 +459,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Braille-Patterns.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Braille-Patterns.woff2) format("woff2");
   unicode-range: U+2800-28ff;
 }
 
@@ -404,8 +469,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Supplemental-Arrows-B.woff2) format('woff2');
-  unicode-range: U+2900-2909, U+2912-291a, U+2921-2922, U+2927-292a, U+2934-2937, U+2939, U+2940-296f, U+2971, U+2977, U+297a;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Supplemental-Arrows-B.woff2) format("woff2");
+  unicode-range: U+2900-2909, U+2912-291a, U+2921-2922, U+2927-292a, U+2934-2937,
+    U+2939, U+2940-296f, U+2971, U+2977, U+297a;
 }
 
 @font-face {
@@ -413,8 +480,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Miscellaneous-Mathematical-Symbols-B.woff2) format('woff2');
-  unicode-range: U+2980-2986, U+29b0-29b1, U+29b5-29bc, U+29be-29cd, U+29dc-29de, U+29e8-29e9, U+29f5-29fb, U+29fe-29ff;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Miscellaneous-Mathematical-Symbols-B.woff2) format("woff2");
+  unicode-range: U+2980-2986, U+29b0-29b1, U+29b5-29bc, U+29be-29cd, U+29dc-29de,
+    U+29e8-29e9, U+29f5-29fb, U+29fe-29ff;
 }
 
 @font-face {
@@ -422,8 +491,12 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Supplemental-Mathematical-Operators.woff2) format('woff2');
-  unicode-range: U+2a00-2a0f, U+2a16, U+2a18-2a1c, U+2a24-2a27, U+2a29-2a32, U+2a34-2a3d, U+2a42-2a43, U+2a46-2a47, U+2a4c-2a4d, U+2a51-2a5d, U+2a64-2a67, U+2a71-2a72, U+2a74-2a78, U+2a7b-2a7e, U+2a9d-2a9e, U+2aac-2aad, U+2abd-2ac6, U+2acb-2acc, U+2acf-2adb, U+2aef-2af1, U+2af6;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Supplemental-Mathematical-Operators.woff2) format("woff2");
+  unicode-range: U+2a00-2a0f, U+2a16, U+2a18-2a1c, U+2a24-2a27, U+2a29-2a32,
+    U+2a34-2a3d, U+2a42-2a43, U+2a46-2a47, U+2a4c-2a4d, U+2a51-2a5d, U+2a64-2a67,
+    U+2a71-2a72, U+2a74-2a78, U+2a7b-2a7e, U+2a9d-2a9e, U+2aac-2aad, U+2abd-2ac6,
+    U+2acb-2acc, U+2acf-2adb, U+2aef-2af1, U+2af6;
 }
 
 @font-face {
@@ -431,8 +504,11 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Miscellaneous-Symbols-and-Arrows.woff2) format('woff2');
-  unicode-range: U+2b00-2b0d, U+2b12-2b22, U+2b24-2b32, U+2b34-2b36, U+2b39-2b3e, U+2b40, U+2b43-2b44, U+2b50-2b59, U+2b60-2b65, U+2b80-2b87, U+2b95, U+2bbd-2bbe, U+2bc3-2bc4, U+2bca-2bcb, U+2bd1;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Miscellaneous-Symbols-and-Arrows.woff2) format("woff2");
+  unicode-range: U+2b00-2b0d, U+2b12-2b22, U+2b24-2b32, U+2b34-2b36, U+2b39-2b3e,
+    U+2b40, U+2b43-2b44, U+2b50-2b59, U+2b60-2b65, U+2b80-2b87, U+2b95,
+    U+2bbd-2bbe, U+2bc3-2bc4, U+2bca-2bcb, U+2bd1;
 }
 
 @font-face {
@@ -440,8 +516,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Glagolitic.woff2) format('woff2');
-  unicode-range: U+2c00-2c04, U+2c0b, U+2c0e, U+2c12-2c15, U+2c17, U+2c19-2c1e, U+2c21, U+2c26, U+2c29;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Glagolitic.woff2) format("woff2");
+  unicode-range: U+2c00-2c04, U+2c0b, U+2c0e, U+2c12-2c15, U+2c17, U+2c19-2c1e,
+    U+2c21, U+2c26, U+2c29;
 }
 
 @font-face {
@@ -449,7 +527,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Latin-Extended-C.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Latin-Extended-C.woff2) format("woff2");
   unicode-range: U+2c60-2c7f;
 }
 
@@ -458,7 +537,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Coptic.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Coptic.woff2) format("woff2");
   unicode-range: U+2c80-2c84, U+2c8e, U+2c9a;
 }
 
@@ -467,7 +547,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Tifinagh.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Tifinagh.woff2) format("woff2");
   unicode-range: U+2d30-2d67, U+2d6f-2d70;
 }
 
@@ -476,8 +557,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Supplemental-Punctuation.woff2) format('woff2');
-  unicode-range: U+2e18, U+2e1a-2e1b, U+2e1e-2e1f, U+2e26-2e29, U+2e2e-2e39, U+2e3d, U+2e40-2e42;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Supplemental-Punctuation.woff2) format("woff2");
+  unicode-range: U+2e18, U+2e1a-2e1b, U+2e1e-2e1f, U+2e26-2e29, U+2e2e-2e39,
+    U+2e3d, U+2e40-2e42;
 }
 
 @font-face {
@@ -485,7 +568,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Radicals-Supplement.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Radicals-Supplement.woff2) format("woff2");
   unicode-range: U+2e80-2e99, U+2e9b-2ef3;
 }
 
@@ -494,7 +578,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Kangxi-Radicals.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Kangxi-Radicals.woff2) format("woff2");
   unicode-range: U+2f00-2fd5;
 }
 
@@ -503,7 +588,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Ideographic-Description-Characters.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Ideographic-Description-Characters.woff2) format("woff2");
   unicode-range: U+2ff0-2ffb;
 }
 
@@ -512,7 +598,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Symbols-and-Punctuation.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Symbols-and-Punctuation.woff2) format("woff2");
   unicode-range: U+3000-3029, U+3030-303f;
 }
 
@@ -521,7 +608,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Hiragana.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Hiragana.woff2) format("woff2");
   unicode-range: U+3041-3096, U+3099-309f;
 }
 
@@ -530,7 +618,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Katakana.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Katakana.woff2) format("woff2");
   unicode-range: U+30a0-30ff;
 }
 
@@ -539,7 +628,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Bopomofo.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Bopomofo.woff2) format("woff2");
   unicode-range: U+3105-312e;
 }
 
@@ -548,7 +638,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Hangul-Compatibility-Jamo.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Hangul-Compatibility-Jamo.woff2) format("woff2");
   unicode-range: U+3131-318e;
 }
 
@@ -557,7 +648,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Kanbun.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Kanbun.woff2) format("woff2");
   unicode-range: U+3190-319f;
 }
 
@@ -566,7 +658,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Bopomofo-Extended.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Bopomofo-Extended.woff2) format("woff2");
   unicode-range: U+31a0-31ba;
 }
 
@@ -575,7 +668,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Strokes.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Strokes.woff2) format("woff2");
   unicode-range: U+31c0-31e3;
 }
 
@@ -584,7 +678,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Katakana-Phonetic-Extensions.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Katakana-Phonetic-Extensions.woff2) format("woff2");
   unicode-range: U+31f0-31ff;
 }
 
@@ -593,7 +688,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Enclosed-CJK-Letters-and-Months.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Enclosed-CJK-Letters-and-Months.woff2) format("woff2");
   unicode-range: U+3200-321e, U+3220-32fe;
 }
 
@@ -602,7 +698,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Compatibility.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Compatibility.woff2) format("woff2");
   unicode-range: U+3300-33ff;
 }
 
@@ -611,7 +708,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-Extension-A-1.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-Extension-A-1.woff2) format("woff2");
   unicode-range: U+3400-37ff;
 }
 
@@ -620,7 +718,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-Extension-A-2.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-Extension-A-2.woff2) format("woff2");
   unicode-range: U+3800-3bff;
 }
 
@@ -629,7 +728,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-Extension-A-3.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-Extension-A-3.woff2) format("woff2");
   unicode-range: U+3c00-3fff;
 }
 
@@ -638,7 +738,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-Extension-A-4.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-Extension-A-4.woff2) format("woff2");
   unicode-range: U+4000-43ff;
 }
 
@@ -647,7 +748,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-Extension-A-5.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-Extension-A-5.woff2) format("woff2");
   unicode-range: U+4400-47ff;
 }
 
@@ -656,7 +758,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-Extension-A-6.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-Extension-A-6.woff2) format("woff2");
   unicode-range: U+4800-4bff;
 }
 
@@ -665,7 +768,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-Extension-A-7.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-Extension-A-7.woff2) format("woff2");
   unicode-range: U+4c00-4db5;
 }
 
@@ -674,7 +778,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Yijing-Hexagram-Symbols.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Yijing-Hexagram-Symbols.woff2) format("woff2");
   unicode-range: U+4dc0-4dff;
 }
 
@@ -683,7 +788,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-01.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-01.woff2) format("woff2");
   unicode-range: U+4e00-51ff;
 }
 
@@ -692,7 +798,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-02.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-02.woff2) format("woff2");
   unicode-range: U+5200-55ff;
 }
 
@@ -701,7 +808,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-03.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-03.woff2) format("woff2");
   unicode-range: U+5600-59ff;
 }
 
@@ -710,7 +818,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-04.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-04.woff2) format("woff2");
   unicode-range: U+5a00-5dff;
 }
 
@@ -719,7 +828,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-05.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-05.woff2) format("woff2");
   unicode-range: U+5e00-61ff;
 }
 
@@ -728,7 +838,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-06.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-06.woff2) format("woff2");
   unicode-range: U+6200-65ff;
 }
 
@@ -737,7 +848,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-07.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-07.woff2) format("woff2");
   unicode-range: U+6600-69ff;
 }
 
@@ -746,7 +858,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-08.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-08.woff2) format("woff2");
   unicode-range: U+6a00-6dff;
 }
 
@@ -755,7 +868,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-09.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-09.woff2) format("woff2");
   unicode-range: U+6e00-71ff;
 }
 
@@ -764,7 +878,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-10.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-10.woff2) format("woff2");
   unicode-range: U+7200-75ff;
 }
 
@@ -773,7 +888,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-11.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-11.woff2) format("woff2");
   unicode-range: U+7600-79ff;
 }
 
@@ -782,7 +898,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-12.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-12.woff2) format("woff2");
   unicode-range: U+7a00-7dff;
 }
 
@@ -791,7 +908,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-13.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-13.woff2) format("woff2");
   unicode-range: U+7e00-81ff;
 }
 
@@ -800,7 +918,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-14.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-14.woff2) format("woff2");
   unicode-range: U+8200-85ff;
 }
 
@@ -809,7 +928,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-15.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-15.woff2) format("woff2");
   unicode-range: U+8600-89ff;
 }
 
@@ -818,7 +938,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-16.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-16.woff2) format("woff2");
   unicode-range: U+8a00-8dff;
 }
 
@@ -827,7 +948,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-17.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-17.woff2) format("woff2");
   unicode-range: U+8e00-91ff;
 }
 
@@ -836,7 +958,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-18.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-18.woff2) format("woff2");
   unicode-range: U+9200-95ff;
 }
 
@@ -845,7 +968,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-19.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-19.woff2) format("woff2");
   unicode-range: U+9600-99ff;
 }
 
@@ -854,7 +978,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-20.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-20.woff2) format("woff2");
   unicode-range: U+9a00-9dff;
 }
 
@@ -863,7 +988,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Unified-Ideographs-21.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Unified-Ideographs-21.woff2) format("woff2");
   unicode-range: U+9e00-9fea;
 }
 
@@ -872,7 +998,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Yi-Syllables.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Yi-Syllables.woff2) format("woff2");
   unicode-range: U+a015, U+a3d4;
 }
 
@@ -881,7 +1008,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Yi-Radicals.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Yi-Radicals.woff2) format("woff2");
   unicode-range: U+a4b3, U+a4c4;
 }
 
@@ -890,7 +1018,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Lisu.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Lisu.woff2) format("woff2");
   unicode-range: U+a4d0-a4ff;
 }
 
@@ -899,7 +1028,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Cyrillic-Extended-B.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Cyrillic-Extended-B.woff2) format("woff2");
   unicode-range: U+a640-a66e, U+a673, U+a67e-a69d;
 }
 
@@ -908,7 +1038,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Modifier-Tone-Letters.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Modifier-Tone-Letters.woff2) format("woff2");
   unicode-range: U+a708-a717, U+a71b-a71e;
 }
 
@@ -917,7 +1048,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Latin-Extended-D.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Latin-Extended-D.woff2) format("woff2");
   unicode-range: U+a720-a7ae, U+a7b0-a7b7, U+a7f7-a7ff;
 }
 
@@ -926,7 +1058,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Hangul-Jamo-Extended-A.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Hangul-Jamo-Extended-A.woff2) format("woff2");
   unicode-range: U+a960-a97c;
 }
 
@@ -935,7 +1068,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Latin-Extended-E.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Latin-Extended-E.woff2) format("woff2");
   unicode-range: U+ab30-ab65;
 }
 
@@ -944,7 +1078,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Hangul-Jamo-Extended-B.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Hangul-Jamo-Extended-B.woff2) format("woff2");
   unicode-range: U+d7b0-d7c6, U+d7cb-d7fb;
 }
 
@@ -953,7 +1088,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Private-Use-Area-1.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Private-Use-Area-1.woff2) format("woff2");
   unicode-range: U+f137-f536;
 }
 
@@ -962,7 +1098,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Private-Use-Area-2.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Private-Use-Area-2.woff2) format("woff2");
   unicode-range: U+f537-f6b0;
 }
 
@@ -971,7 +1108,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Compatibility-Ideographs.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Compatibility-Ideographs.woff2) format("woff2");
   unicode-range: U+f900-fa6d, U+fa70-fad9;
 }
 
@@ -980,7 +1118,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Alphabetic-Presentation-Forms.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Alphabetic-Presentation-Forms.woff2) format("woff2");
   unicode-range: U+fb00-fb05, U+fb29;
 }
 
@@ -989,7 +1128,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Variation-Selectors.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Variation-Selectors.woff2) format("woff2");
   unicode-range: U+fe00-fe0f;
 }
 
@@ -998,7 +1138,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Vertical-Forms.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Vertical-Forms.woff2) format("woff2");
   unicode-range: U+fe10-fe19;
 }
 
@@ -1007,7 +1148,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Compatibility-Forms.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Compatibility-Forms.woff2) format("woff2");
   unicode-range: U+fe30-fe4f;
 }
 
@@ -1016,7 +1158,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Small-Form-Variants.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Small-Form-Variants.woff2) format("woff2");
   unicode-range: U+fe50-fe52, U+fe54-fe66, U+fe68-fe6b;
 }
 
@@ -1025,8 +1168,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Halfwidth-and-Fullwidth-Forms.woff2) format('woff2');
-  unicode-range: U+ff01-ffbe, U+ffc2-ffc7, U+ffca-ffcf, U+ffd2-ffd7, U+ffda-ffdc, U+ffe0-ffe6, U+ffe8-ffee;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Halfwidth-and-Fullwidth-Forms.woff2) format("woff2");
+  unicode-range: U+ff01-ffbe, U+ffc2-ffc7, U+ffca-ffcf, U+ffd2-ffd7, U+ffda-ffdc,
+    U+ffe0-ffe6, U+ffe8-ffee;
 }
 
 @font-face {
@@ -1034,7 +1179,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Specials.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Specials.woff2) format("woff2");
   unicode-range: U+fffc-fffd;
 }
 
@@ -1043,7 +1189,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Linear-B-Syllabary.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Linear-B-Syllabary.woff2) format("woff2");
   unicode-range: U+10000, U+1000f;
 }
 
@@ -1052,7 +1199,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Ancient-Symbols.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Ancient-Symbols.woff2) format("woff2");
   unicode-range: U+10190-1019b, U+101a0;
 }
 
@@ -1061,7 +1209,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Lycian.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Lycian.woff2) format("woff2");
   unicode-range: U+10280-1029c;
 }
 
@@ -1070,7 +1219,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Carian.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Carian.woff2) format("woff2");
   unicode-range: U+102a0-102d0;
 }
 
@@ -1079,7 +1229,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Old-Italic.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Old-Italic.woff2) format("woff2");
   unicode-range: U+10300-10323, U+1032d-1032f;
 }
 
@@ -1088,7 +1239,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Gothic.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Gothic.woff2) format("woff2");
   unicode-range: U+10330-1034a;
 }
 
@@ -1097,8 +1249,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Old-Permic.woff2) format('woff2');
-  unicode-range: U+10350-10351, U+10354-10359, U+1035f-10362, U+10366-10367, U+1036c-10370;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Old-Permic.woff2) format("woff2");
+  unicode-range: U+10350-10351, U+10354-10359, U+1035f-10362, U+10366-10367,
+    U+1036c-10370;
 }
 
 @font-face {
@@ -1106,7 +1260,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Ugaritic.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Ugaritic.woff2) format("woff2");
   unicode-range: U+10382, U+1038d, U+10394-10395, U+1039a;
 }
 
@@ -1115,7 +1270,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Elbasan.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Elbasan.woff2) format("woff2");
   unicode-range: U+10501;
 }
 
@@ -1124,7 +1280,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Phoenician.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Phoenician.woff2) format("woff2");
   unicode-range: U+10906-10907, U+1090a;
 }
 
@@ -1133,7 +1290,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Lydian.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Lydian.woff2) format("woff2");
   unicode-range: U+10920-10939, U+1093f;
 }
 
@@ -1142,7 +1300,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Old-South-Arabian.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Old-South-Arabian.woff2) format("woff2");
   unicode-range: U+10a60-10a7f;
 }
 
@@ -1151,7 +1310,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Old-Turkic.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Old-Turkic.woff2) format("woff2");
   unicode-range: U+10c00-10c48;
 }
 
@@ -1160,8 +1320,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Old-Hungarian.woff2) format('woff2');
-  unicode-range: U+10c80, U+10c82-10c88, U+10c8a, U+10c8c-10c8f, U+10c93, U+10c99-10c9c, U+10ca0, U+10ca2-10ca7, U+10caa-10cab, U+10cad-10cb2;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Old-Hungarian.woff2) format("woff2");
+  unicode-range: U+10c80, U+10c82-10c88, U+10c8a, U+10c8c-10c8f, U+10c93,
+    U+10c99-10c9c, U+10ca0, U+10ca2-10ca7, U+10caa-10cab, U+10cad-10cb2;
 }
 
 @font-face {
@@ -1169,7 +1331,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Rumi-Numeral-Symbols.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Rumi-Numeral-Symbols.woff2) format("woff2");
   unicode-range: U+10e60-10e7e;
 }
 
@@ -1178,7 +1341,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Ideographic-Symbols-and-Punctuation.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Ideographic-Symbols-and-Punctuation.woff2) format("woff2");
   unicode-range: U+16fe0;
 }
 
@@ -1187,7 +1351,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Tangut.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Tangut.woff2) format("woff2");
   unicode-range: U+17000-17001, U+17005, U+17030-17031, U+17038;
 }
 
@@ -1196,8 +1361,14 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Tangut-Components.woff2) format('woff2');
-  unicode-range: U+18800-1880b, U+18810, U+18812, U+18814-18815, U+18819-1881b, U+18820-18824, U+18827-18828, U+1882a-1882d, U+18831-18833, U+1883d, U+1884d, U+18853-18856, U+18858, U+1885b-1885c, U+1885f, U+18861-18864, U+18866, U+18869-1886a, U+1886f, U+1887d, U+18882, U+1889c, U+188b0, U+188c7, U+188d7-188d8, U+188e9, U+1891a-1891d, U+1891f-18920, U+18943-18945, U+1895a, U+18976, U+18ad5;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Tangut-Components.woff2) format("woff2");
+  unicode-range: U+18800-1880b, U+18810, U+18812, U+18814-18815, U+18819-1881b,
+    U+18820-18824, U+18827-18828, U+1882a-1882d, U+18831-18833, U+1883d, U+1884d,
+    U+18853-18856, U+18858, U+1885b-1885c, U+1885f, U+18861-18864, U+18866,
+    U+18869-1886a, U+1886f, U+1887d, U+18882, U+1889c, U+188b0, U+188c7,
+    U+188d7-188d8, U+188e9, U+1891a-1891d, U+1891f-18920, U+18943-18945, U+1895a,
+    U+18976, U+18ad5;
 }
 
 @font-face {
@@ -1205,7 +1376,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Kana-Supplement.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Kana-Supplement.woff2) format("woff2");
   unicode-range: U+1b000-1b0ff;
 }
 
@@ -1214,7 +1386,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Kana-Extended-A.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Kana-Extended-A.woff2) format("woff2");
   unicode-range: U+1b100-1b11e;
 }
 
@@ -1223,7 +1396,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Duployan.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Duployan.woff2) format("woff2");
   unicode-range: U+1bc9d;
 }
 
@@ -1232,7 +1406,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Shorthand-Format-Controls.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Shorthand-Format-Controls.woff2) format("woff2");
   unicode-range: U+1bca0-1bca3;
 }
 
@@ -1241,7 +1416,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Musical-Symbols.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Musical-Symbols.woff2) format("woff2");
   unicode-range: U+1d11e, U+1d122, U+1d12a-1d131, U+1d157, U+1d15c-1d161;
 }
 
@@ -1250,7 +1426,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Tai-Xuan-Jing-Symbols.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Tai-Xuan-Jing-Symbols.woff2) format("woff2");
   unicode-range: U+1d300-1d356;
 }
 
@@ -1259,7 +1436,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Counting-Rod-Numerals.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Counting-Rod-Numerals.woff2) format("woff2");
   unicode-range: U+1d360-1d371;
 }
 
@@ -1268,8 +1446,11 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Mathematical-Alphanumeric-Symbols.woff2) format('woff2');
-  unicode-range: U+1d434-1d454, U+1d456-1d467, U+1d504, U+1d522, U+1d538-1d539, U+1d53b-1d53e, U+1d540-1d544, U+1d546, U+1d54a-1d550, U+1d558, U+1d55a, U+1d560, U+1d5a0-1d5d3, U+1d6a4-1d6a5, U+1d6e2-1d71b, U+1d7e2-1d7eb;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Mathematical-Alphanumeric-Symbols.woff2) format("woff2");
+  unicode-range: U+1d434-1d454, U+1d456-1d467, U+1d504, U+1d522, U+1d538-1d539,
+    U+1d53b-1d53e, U+1d540-1d544, U+1d546, U+1d54a-1d550, U+1d558, U+1d55a,
+    U+1d560, U+1d5a0-1d5d3, U+1d6a4-1d6a5, U+1d6e2-1d71b, U+1d7e2-1d7eb;
 }
 
 @font-face {
@@ -1277,7 +1458,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Mahjong-Tiles.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Mahjong-Tiles.woff2) format("woff2");
   unicode-range: U+1f000-1f02b;
 }
 
@@ -1286,7 +1468,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Domino-Tiles.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Domino-Tiles.woff2) format("woff2");
   unicode-range: U+1f030-1f093;
 }
 
@@ -1295,7 +1478,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Playing-Cards.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Playing-Cards.woff2) format("woff2");
   unicode-range: U+1f0a0-1f0ae, U+1f0b1-1f0bf, U+1f0c1-1f0cf, U+1f0d1-1f0df;
 }
 
@@ -1304,8 +1488,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Enclosed-Alphanumeric-Supplement.woff2) format('woff2');
-  unicode-range: U+1f100-1f10c, U+1f110-1f12e, U+1f130-1f16b, U+1f170-1f1ac, U+1f1e6-1f1ff;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Enclosed-Alphanumeric-Supplement.woff2) format("woff2");
+  unicode-range: U+1f100-1f10c, U+1f110-1f12e, U+1f130-1f16b, U+1f170-1f1ac,
+    U+1f1e6-1f1ff;
 }
 
 @font-face {
@@ -1313,7 +1499,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Enclosed-Ideographic-Supplement.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Enclosed-Ideographic-Supplement.woff2) format("woff2");
   unicode-range: U+1f200-1f202, U+1f210-1f23b, U+1f240-1f248, U+1f250-1f251;
 }
 
@@ -1322,8 +1509,17 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Miscellaneous-Symbols-and-Pictographs.woff2) format('woff2');
-  unicode-range: U+1f300, U+1f302, U+1f305, U+1f310-1f318, U+1f31a, U+1f31d-1f31e, U+1f320, U+1f358-1f359, U+1f361, U+1f364, U+1f378, U+1f390, U+1f3b0-1f3b1, U+1f3b3-1f3b9, U+1f3e0, U+1f407, U+1f42d, U+1f42f-1f431, U+1f436-1f438, U+1f440-1f441, U+1f44d-1f44e, U+1f46f, U+1f477, U+1f47a, U+1f493-1f495, U+1f497-1f498, U+1f49e-1f49f, U+1f4a2-1f4a4, U+1f4a7-1f4a9, U+1f4ab, U+1f4af, U+1f4b1-1f4b2, U+1f4b4-1f4b7, U+1f4bb, U+1f4d0, U+1f4f6, U+1f4fa-1f4fb, U+1f505-1f506, U+1f516, U+1f519-1f525, U+1f52b, U+1f52f, U+1f549, U+1f550-1f567, U+1f595, U+1f5a4, U+1f5da-1f5db, U+1f5f8-1f5f9, U+1f5fb, U+1f5fe;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Miscellaneous-Symbols-and-Pictographs.woff2) format("woff2");
+  unicode-range: U+1f300, U+1f302, U+1f305, U+1f310-1f318, U+1f31a,
+    U+1f31d-1f31e, U+1f320, U+1f358-1f359, U+1f361, U+1f364, U+1f378, U+1f390,
+    U+1f3b0-1f3b1, U+1f3b3-1f3b9, U+1f3e0, U+1f407, U+1f42d, U+1f42f-1f431,
+    U+1f436-1f438, U+1f440-1f441, U+1f44d-1f44e, U+1f46f, U+1f477, U+1f47a,
+    U+1f493-1f495, U+1f497-1f498, U+1f49e-1f49f, U+1f4a2-1f4a4, U+1f4a7-1f4a9,
+    U+1f4ab, U+1f4af, U+1f4b1-1f4b2, U+1f4b4-1f4b7, U+1f4bb, U+1f4d0, U+1f4f6,
+    U+1f4fa-1f4fb, U+1f505-1f506, U+1f516, U+1f519-1f525, U+1f52b, U+1f52f,
+    U+1f549, U+1f550-1f567, U+1f595, U+1f5a4, U+1f5da-1f5db, U+1f5f8-1f5f9,
+    U+1f5fb, U+1f5fe;
 }
 
 @font-face {
@@ -1331,8 +1527,11 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Emoticons.woff2) format('woff2');
-  unicode-range: U+1f600-1f601, U+1f603-1f608, U+1f60a, U+1f60c, U+1f60f-1f612, U+1f614-1f615, U+1f61b, U+1f61d, U+1f626-1f627, U+1f62b, U+1f62e, U+1f636, U+1f641-1f643;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Emoticons.woff2) format("woff2");
+  unicode-range: U+1f600-1f601, U+1f603-1f608, U+1f60a, U+1f60c, U+1f60f-1f612,
+    U+1f614-1f615, U+1f61b, U+1f61d, U+1f626-1f627, U+1f62b, U+1f62e, U+1f636,
+    U+1f641-1f643;
 }
 
 @font-face {
@@ -1340,7 +1539,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Ornamental-Dingbats.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Ornamental-Dingbats.woff2) format("woff2");
   unicode-range: U+1f66a-1f66b, U+1f672, U+1f675-1f676, U+1f679, U+1f67e-1f67f;
 }
 
@@ -1349,7 +1549,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Transport-and-Map-Symbols.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Transport-and-Map-Symbols.woff2) format("woff2");
   unicode-range: U+1f685, U+1f6a9, U+1f6ab, U+1f6bf, U+1f6c7-1f6c8, U+1f6d1;
 }
 
@@ -1358,8 +1559,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Alchemical-Symbols.woff2) format('woff2');
-  unicode-range: U+1f700, U+1f708, U+1f713, U+1f71a-1f71b, U+1f728, U+1f746, U+1f748, U+1f750, U+1f755, U+1f75b-1f75c, U+1f76b, U+1f76f, U+1f771-1f772;
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Alchemical-Symbols.woff2) format("woff2");
+  unicode-range: U+1f700, U+1f708, U+1f713, U+1f71a-1f71b, U+1f728, U+1f746,
+    U+1f748, U+1f750, U+1f755, U+1f75b-1f75c, U+1f76b, U+1f76f, U+1f771-1f772;
 }
 
 @font-face {
@@ -1367,7 +1570,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Geometric-Shapes-Extended.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Geometric-Shapes-Extended.woff2) format("woff2");
   unicode-range: U+1f784-1f785, U+1f7a8, U+1f7c9;
 }
 
@@ -1376,7 +1580,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.Supplemental-Symbols-and-Pictographs.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.Supplemental-Symbols-and-Pictographs.woff2) format("woff2");
   unicode-range: U+1f98d, U+1f9d9;
 }
 
@@ -1385,7 +1590,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-01.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-01.woff2) format("woff2");
   unicode-range: U+20000-203ff;
 }
 
@@ -1394,7 +1600,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-02.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-02.woff2) format("woff2");
   unicode-range: U+20400-207ff;
 }
 
@@ -1403,7 +1610,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-03.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-03.woff2) format("woff2");
   unicode-range: U+20800-20bff;
 }
 
@@ -1412,7 +1620,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-04.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-04.woff2) format("woff2");
   unicode-range: U+20c00-20fff;
 }
 
@@ -1421,7 +1630,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-05.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-05.woff2) format("woff2");
   unicode-range: U+21000-213ff;
 }
 
@@ -1430,7 +1640,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-06.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-06.woff2) format("woff2");
   unicode-range: U+21400-217ff;
 }
 
@@ -1439,7 +1650,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-07.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-07.woff2) format("woff2");
   unicode-range: U+21800-21bff;
 }
 
@@ -1448,7 +1660,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-08.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-08.woff2) format("woff2");
   unicode-range: U+21c00-21fff;
 }
 
@@ -1457,7 +1670,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-09.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-09.woff2) format("woff2");
   unicode-range: U+22000-223ff;
 }
 
@@ -1466,7 +1680,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-10.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-10.woff2) format("woff2");
   unicode-range: U+22400-227ff;
 }
 
@@ -1475,7 +1690,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-11.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-11.woff2) format("woff2");
   unicode-range: U+22800-22bff;
 }
 
@@ -1484,7 +1700,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-12.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-12.woff2) format("woff2");
   unicode-range: U+22c00-22fff;
 }
 
@@ -1493,7 +1710,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-13.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-13.woff2) format("woff2");
   unicode-range: U+23000-233ff;
 }
 
@@ -1502,7 +1720,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-14.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-14.woff2) format("woff2");
   unicode-range: U+23400-237ff;
 }
 
@@ -1511,7 +1730,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-15.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-15.woff2) format("woff2");
   unicode-range: U+23800-23bff;
 }
 
@@ -1520,7 +1740,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-16.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-16.woff2) format("woff2");
   unicode-range: U+23c00-23fff;
 }
 
@@ -1529,7 +1750,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-17.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-17.woff2) format("woff2");
   unicode-range: U+24000-243ff;
 }
 
@@ -1538,7 +1760,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-18.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-18.woff2) format("woff2");
   unicode-range: U+24400-247ff;
 }
 
@@ -1547,7 +1770,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-19.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-19.woff2) format("woff2");
   unicode-range: U+24800-24bff;
 }
 
@@ -1556,7 +1780,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-20.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-20.woff2) format("woff2");
   unicode-range: U+24c00-24fff;
 }
 
@@ -1565,7 +1790,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-21.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-21.woff2) format("woff2");
   unicode-range: U+25000-253ff;
 }
 
@@ -1574,7 +1800,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-22.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-22.woff2) format("woff2");
   unicode-range: U+25400-257ff;
 }
 
@@ -1583,7 +1810,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-23.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-23.woff2) format("woff2");
   unicode-range: U+25800-25bff;
 }
 
@@ -1592,7 +1820,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-24.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-24.woff2) format("woff2");
   unicode-range: U+25c00-25fff;
 }
 
@@ -1601,7 +1830,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-25.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-25.woff2) format("woff2");
   unicode-range: U+26000-263ff;
 }
 
@@ -1610,7 +1840,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-26.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-26.woff2) format("woff2");
   unicode-range: U+26400-267ff;
 }
 
@@ -1619,7 +1850,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-27.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-27.woff2) format("woff2");
   unicode-range: U+26800-26bff;
 }
 
@@ -1628,7 +1860,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-28.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-28.woff2) format("woff2");
   unicode-range: U+26c00-26fff;
 }
 
@@ -1637,7 +1870,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-29.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-29.woff2) format("woff2");
   unicode-range: U+27000-273ff;
 }
 
@@ -1646,7 +1880,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-30.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-30.woff2) format("woff2");
   unicode-range: U+27400-277ff;
 }
 
@@ -1655,7 +1890,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-31.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-31.woff2) format("woff2");
   unicode-range: U+27800-27bff;
 }
 
@@ -1664,7 +1900,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-32.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-32.woff2) format("woff2");
   unicode-range: U+27c00-27fff;
 }
 
@@ -1673,7 +1910,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-33.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-33.woff2) format("woff2");
   unicode-range: U+28000-283ff;
 }
 
@@ -1682,7 +1920,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-34.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-34.woff2) format("woff2");
   unicode-range: U+28400-287ff;
 }
 
@@ -1691,7 +1930,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-35.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-35.woff2) format("woff2");
   unicode-range: U+28800-28bff;
 }
 
@@ -1700,7 +1940,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-36.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-36.woff2) format("woff2");
   unicode-range: U+28c00-28fff;
 }
 
@@ -1709,7 +1950,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-37.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-37.woff2) format("woff2");
   unicode-range: U+29000-293ff;
 }
 
@@ -1718,7 +1960,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-38.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-38.woff2) format("woff2");
   unicode-range: U+29400-297ff;
 }
 
@@ -1727,7 +1970,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-39.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-39.woff2) format("woff2");
   unicode-range: U+29800-29bff;
 }
 
@@ -1736,7 +1980,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-40.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-40.woff2) format("woff2");
   unicode-range: U+29c00-29fff;
 }
 
@@ -1745,7 +1990,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-41.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-41.woff2) format("woff2");
   unicode-range: U+2a000-2a3ff;
 }
 
@@ -1754,7 +2000,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-B-42.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-B-42.woff2) format("woff2");
   unicode-range: U+2a400-2a6d6;
 }
 
@@ -1763,7 +2010,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-C-1.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-C-1.woff2) format("woff2");
   unicode-range: U+2a700-2aaff;
 }
 
@@ -1772,7 +2020,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-C-2.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-C-2.woff2) format("woff2");
   unicode-range: U+2ab00-2aeff;
 }
 
@@ -1781,7 +2030,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-C-3.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-C-3.woff2) format("woff2");
   unicode-range: U+2af00-2b2ff;
 }
 
@@ -1790,7 +2040,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-C-4.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-C-4.woff2) format("woff2");
   unicode-range: U+2b300-2b6ff;
 }
 
@@ -1799,7 +2050,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-C-5.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-C-5.woff2) format("woff2");
   unicode-range: U+2b700-2b734;
 }
 
@@ -1808,7 +2060,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-D.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-D.woff2) format("woff2");
   unicode-range: U+2b740-2b81d;
 }
 
@@ -1817,7 +2070,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-E-1.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-E-1.woff2) format("woff2");
   unicode-range: U+2b820-2bc1f;
 }
 
@@ -1826,7 +2080,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-E-2.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-E-2.woff2) format("woff2");
   unicode-range: U+2bc20-2c01f;
 }
 
@@ -1835,7 +2090,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-E-3.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-E-3.woff2) format("woff2");
   unicode-range: U+2c020-2c41f;
 }
 
@@ -1844,7 +2100,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-E-4.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-E-4.woff2) format("woff2");
   unicode-range: U+2c420-2c81f;
 }
 
@@ -1853,7 +2110,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-E-5.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-E-5.woff2) format("woff2");
   unicode-range: U+2c820-2cc1f;
 }
 
@@ -1862,7 +2120,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-E-6.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-E-6.woff2) format("woff2");
   unicode-range: U+2cc20-2cea1;
 }
 
@@ -1871,7 +2130,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-F-1.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-F-1.woff2) format("woff2");
   unicode-range: U+2ceb0-2d2af;
 }
 
@@ -1880,7 +2140,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-F-2.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-F-2.woff2) format("woff2");
   unicode-range: U+2d2b0-2d6af;
 }
 
@@ -1889,7 +2150,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-F-3.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-F-3.woff2) format("woff2");
   unicode-range: U+2d6b0-2daaf;
 }
 
@@ -1898,7 +2160,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-F-4.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-F-4.woff2) format("woff2");
   unicode-range: U+2dab0-2deaf;
 }
 
@@ -1907,7 +2170,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-F-5.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-F-5.woff2) format("woff2");
   unicode-range: U+2deb0-2e2af;
 }
 
@@ -1916,7 +2180,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-F-6.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-F-6.woff2) format("woff2");
   unicode-range: U+2e2b0-2e6af;
 }
 
@@ -1925,7 +2190,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-F-7.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-F-7.woff2) format("woff2");
   unicode-range: U+2e6b0-2eaaf;
 }
 
@@ -1934,7 +2200,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝B Regular'), local('HanaMinB'), url(HanaMinB.CJK-Unified-Ideographs-Extension-F-8.woff2) format('woff2');
+  src: local("花園明朝B Regular"), local("HanaMinB"),
+    url(HanaMinB.CJK-Unified-Ideographs-Extension-F-8.woff2) format("woff2");
   unicode-range: U+2eab0-2ebe0;
 }
 
@@ -1943,6 +2210,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('花園明朝A Regular'), local('HanaMinA'), url(HanaMinA.CJK-Compatibility-Ideographs-Supplement.woff2) format('woff2');
+  src: local("花園明朝A Regular"), local("HanaMinA"),
+    url(HanaMinA.CJK-Compatibility-Ideographs-Supplement.woff2) format("woff2");
   unicode-range: U+2f800-2fa1d;
 }

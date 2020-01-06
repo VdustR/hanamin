@@ -1,6 +1,6 @@
 {
   "name": "hanamin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A webfont repository for Hanamin",
   "keywords": [
     "font",
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/VdustR/hanamin/issues"
   },
-  "main": "HanaMin.css"
+  "main": "HanaMin.min.css"
 }

@@ -3,7 +3,18 @@
 A webfont repository for Hanamin.
 
 - Original font: <https://fonts.jp/hanazono/>
+
 - Split with [font-splitter](https://github.com/VdustR/font-splitter)
+
+- Minify with [clean-css-cli](https://github.com/jakubpawlowicz/clean-css-cli)
+
+  ```bash
+  cleancss --source-map -o HanaMin.min.css HanaMin.css
+  ```
+
+## Online Demo
+
+<https://codesandbox.io/embed/hanamin-demo-uo5ez>
 
 ## Usage
 
@@ -23,10 +34,16 @@ npm i hanamin
 yarn add hanamin
 ```
 
-And import it:
+And import it in js:
 
 ```js
 import "hanamin";
+```
+
+or in css:
+
+```css
+@import "~hanamin";
 ```
 
 ### With CDN
@@ -37,7 +54,7 @@ jsDelivr npm:
 <link
   rel="stylesheet"
   type="text/css"
-  href="https://cdn.jsdelivr.net/npm/hanamin/HanaMin.css"
+  href="https://cdn.jsdelivr.net/npm/hanamin/HanaMin.min.css"
 />
 ```
 
@@ -47,7 +64,7 @@ jsDelivr GitHub:
 <link
   rel="stylesheet"
   type="text/css"
-  href="https://cdn.jsdelivr.net/gh/vdustr/hanamin/HanaMin.css"
+  href="https://cdn.jsdelivr.net/gh/vdustr/hanamin/HanaMin.min.css"
 />
 ```
 
